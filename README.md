@@ -40,7 +40,7 @@ Follow these steps to set up the application locally:
 
 ## Usage
 - Ensure you have the necessary tools and runtime installed for .NET 7 .
-- Open the project in your preferred IDE or editor compatible with C# .NET 7 MAUI.
+- Open the project in your preferred IDE or editor compatible with .NET 7.
 - Build and run the application using the respective commands or IDE tools.
 
 ## Technologies Used
